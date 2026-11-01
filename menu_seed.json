@@ -1,0 +1,227 @@
+{
+ "Coffee": [
+  [
+   "Espresso",
+   "Single origin, rich and short",
+   350
+  ],
+  [
+   "Americano",
+   "Espresso with hot water",
+   400
+  ],
+  [
+   "Flat White",
+   "Double ristretto, silky steamed milk",
+   450
+  ],
+  [
+   "Cappuccino",
+   "Equal parts espresso, milk and foam",
+   480
+  ],
+  [
+   "Cardamom Latte",
+   "Espresso, warm milk, crushed cardamom",
+   500,
+   "Bestseller"
+  ],
+  [
+   "Mocha",
+   "Dark chocolate, espresso, cream",
+   550
+  ],
+  [
+   "Caramel Macchiato",
+   "Vanilla milk, espresso, caramel drizzle",
+   580
+  ],
+  [
+   "Affogato",
+   "Vanilla ice cream drowned in hot espresso",
+   520
+  ]
+ ],
+ "Tea": [
+  [
+   "Kashmiri Chai",
+   "Pink tea with almonds and pistachio",
+   350,
+   "Bestseller"
+  ],
+  [
+   "Doodh Patti",
+   "Strong, creamy, the classic",
+   250
+  ],
+  [
+   "Masala Chai",
+   "Spiced with ginger and cinnamon",
+   300
+  ],
+  [
+   "Green Tea",
+   "Light and clean, with honey",
+   280,
+   "Vegan",
+   "v"
+  ],
+  [
+   "Earl Grey",
+   "Black tea with bergamot",
+   300,
+   "Vegan",
+   "v"
+  ],
+  [
+   "Iced Peach Tea",
+   "Black tea, peach, lemon",
+   380
+  ]
+ ],
+ "Breakfast": [
+  [
+   "Halwa Puri Plate",
+   "Puri, chana, halwa and aloo bhaji",
+   650,
+   "Bestseller"
+  ],
+  [
+   "Classic Omelette",
+   "Three eggs, cheese, herbs, toast",
+   520
+  ],
+  [
+   "Eggs Benedict",
+   "Poached eggs, hollandaise, English muffin",
+   780
+  ],
+  [
+   "Avocado Toast",
+   "Sourdough, avocado, chilli flakes, lime",
+   720,
+   "Vegetarian",
+   "v"
+  ],
+  [
+   "Pancake Stack",
+   "Maple syrup, butter, seasonal fruit",
+   650,
+   "Vegetarian",
+   "v"
+  ],
+  [
+   "Paratha Roll",
+   "Egg and cheese, green chutney",
+   450
+  ]
+ ],
+ "Bites": [
+  [
+   "Almond Croissant",
+   "Baked each morning",
+   380,
+   "Vegetarian",
+   "v"
+  ],
+  [
+   "Chicken Pesto Panini",
+   "Grilled, with mozzarella",
+   650
+  ],
+  [
+   "Club Sandwich",
+   "Triple layer chicken, egg, salad",
+   720
+  ],
+  [
+   "Chicken Quesadilla",
+   "Cheese, peppers, sour cream dip",
+   690
+  ],
+  [
+   "Loaded Fries",
+   "Cheese sauce, jalapeño, crispy chicken",
+   480,
+   "Spicy",
+   "s"
+  ],
+  [
+   "Chicken Wings",
+   "Six pieces, hot honey glaze",
+   620,
+   "Spicy",
+   "s"
+  ]
+ ],
+ "Desserts": [
+  [
+   "Walnut Brownie",
+   "Dense, dark, a little salty",
+   350,
+   "Vegetarian",
+   "v"
+  ],
+  [
+   "Tiramisu",
+   "Mascarpone, espresso-soaked sponge",
+   520
+  ],
+  [
+   "New York Cheesecake",
+   "Baked, with berry compote",
+   580
+  ],
+  [
+   "Lotus Biscoff Cake",
+   "Caramel biscuit crumb, cream",
+   560,
+   "New"
+  ],
+  [
+   "Gulab Jamun Cheesecake",
+   "A desi twist on a classic",
+   600,
+   "New"
+  ],
+  [
+   "Chocolate Lava Cake",
+   "Warm centre, vanilla ice cream",
+   540
+  ]
+ ],
+ "Cold drinks": [
+  [
+   "Cold Brew",
+   "Steeped 18 hours, served over ice",
+   480
+  ],
+  [
+   "Iced Latte",
+   "Espresso, cold milk, ice",
+   520
+  ],
+  [
+   "Mint Lemonade",
+   "Fresh lemon, crushed mint",
+   320,
+   "Vegan",
+   "v"
+  ],
+  [
+   "Mango Shake",
+   "Ripe mango, thick and cold",
+   420
+  ],
+  [
+   "Oreo Frappe",
+   "Blended with cream and cookie crumbs",
+   580
+  ],
+  [
+   "Strawberry Smoothie",
+   "Strawberry, yogurt, honey",
+   450
+  ]
+ ]
+}
